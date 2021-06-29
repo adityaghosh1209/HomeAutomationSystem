@@ -11,5 +11,6 @@ Aditya Ghosh
 Download the the files and extract them
 
 https://youtu.be/ssJet_N3V5E Vedio link
-code: 
-Circut Digram: 
+code: in the Zip File.
+Circut Digram: HomeAuto Complete.jpeg
+PPT : in the Zip File.
